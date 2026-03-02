@@ -24,3 +24,7 @@ Desenvolver um dashboard mais profissional para visualização e acompanhamento 
 
 Evolução em tratamento de dados, modelagem e construção de indicadores voltados para tomada de decisão.
 
+
+## 🔒 Observação
+
+A base de dados utilizada no projeto não foi disponibilizada por conter informações internas.
